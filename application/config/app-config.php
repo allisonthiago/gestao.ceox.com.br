@@ -42,15 +42,15 @@ define('APP_DB_HOSTNAME', 'localhost');
 /**
  * The username used to connect to the database
  */
-define('APP_DB_USERNAME', 'u514057073_gestaoceox');
+define('APP_DB_USERNAME', 'usuario_db');
 /**
  * The password used to connect to the database
  */
-define('APP_DB_PASSWORD', 'Thmpv@77d6f');
+define('APP_DB_PASSWORD', 'senha_usuario_db');
 /**
  * The name of the database you want to connect to
  */
-define('APP_DB_NAME', 'u514057073_gestaoceox');
+define('APP_DB_NAME', 'database');
 
 /**
  * @since  2.3.0
